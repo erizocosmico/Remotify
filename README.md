@@ -41,3 +41,4 @@ Done. Just run it and start using it.
 ```bash
 node server/index.js
 ```
+Now go to ```localhost:3000``` on your browser.
