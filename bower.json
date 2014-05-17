@@ -1,0 +1,31 @@
+{
+    "name": "Remotify",
+    "version": "0.0.0",
+    "authors": [
+        "José Miguel Molina <hi@mvader.me>"
+    ],
+    "description": "Remotely control Spotify on your machine with a web interface.",
+    "moduleType": [
+        "globals",
+        "node"
+    ],
+    "keywords": [
+        "remote",
+        "spotify",
+        "control"
+    ],
+    "dependencies": {
+        "angular": "latest",
+        "ionicons": "latest",
+        "socket.io-client": "*"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/mvader/remotify",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
